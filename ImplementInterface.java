@@ -5,3 +5,4 @@ public interface ImplementInterface {
     void method2();
     void method3();
 }
+//TIP To implement this interface, press <shortcut actionId="ImplementMethods"/> or click the <icon src="AllIcons.Actions.ImplementMethods"/> icon in the gutter.
